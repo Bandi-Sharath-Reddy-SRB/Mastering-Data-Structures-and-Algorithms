@@ -23,6 +23,8 @@ Welcome to my journey of mastering data structures and algorithms! In this repos
 🔗 **Useful Links**: 
 - [LinkedIn Profile](https://www.linkedin.com/in/bandi-sharath-reddy-651338291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+- [Github Profile](https://github.com/Bandi-Sharath-Reddy-SRB)
+
 Join me on this exciting journey of mastering data structures and algorithms. Let's learn, share, and conquer the world of algorithms together! 🚀
 
 **Happy Coding!**
